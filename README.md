@@ -6,4 +6,4 @@ Data is sent to PHP which saves it in MySQL db.
 You can see chart of temperatures, and buildings plan with animated icons.
 Icons and chart corresponds to actual sensors state from database. 
 ```
-### Live: [mandra.pl - chat](http://mandra.pl/scada/index.php)
+### Live: [mandra.pl - scada](http://mandra.pl/scada/index.php)

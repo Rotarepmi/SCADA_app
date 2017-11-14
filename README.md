@@ -12,6 +12,7 @@ Icons and chart corresponds to actual sensors state from database.
 * JS (JQuery, Ajax)
 * HTML
 * Sass
+* Bootstrap 4
 * Chart.js
 * FontAwesome
 * SVG
